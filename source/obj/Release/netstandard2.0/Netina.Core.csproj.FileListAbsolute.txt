@@ -1,0 +1,9 @@
+C:\Users\avvam\source\repos\iNet\Netina.Core\source\obj\Release\netstandard2.0\Netina.Core.csprojAssemblyReference.cache
+C:\Users\avvam\source\repos\iNet\Netina.Core\source\obj\Release\netstandard2.0\Netina.Core.AssemblyInfoInputs.cache
+C:\Users\avvam\source\repos\iNet\Netina.Core\source\obj\Release\netstandard2.0\Netina.Core.AssemblyInfo.cs
+C:\Users\avvam\source\repos\iNet\Netina.Core\source\obj\Release\netstandard2.0\Netina.Core.csproj.CoreCompileInputs.cache
+C:\Users\avvam\source\repos\iNet\Netina.Core\source\bin\Release\netstandard2.0\Netina.Core.deps.json
+C:\Users\avvam\source\repos\iNet\Netina.Core\source\bin\Release\netstandard2.0\Netina.Core.dll
+C:\Users\avvam\source\repos\iNet\Netina.Core\source\bin\Release\netstandard2.0\Netina.Core.pdb
+C:\Users\avvam\source\repos\iNet\Netina.Core\source\obj\Release\netstandard2.0\Netina.Core.dll
+C:\Users\avvam\source\repos\iNet\Netina.Core\source\obj\Release\netstandard2.0\Netina.Core.pdb

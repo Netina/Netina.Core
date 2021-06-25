@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "m8vgz9vWGBE35HO65m+XgymopeOhXjLtFN9WfD6bLbmcq88O59174teodcShZTis+ujyT+LXDE4QHVQuSxs8TQ==",
+  "dgSpecHash": "LBEee6fZ/V7tGnZBwF/X18skD1RxlCRJnVS9X4lJ19a5nN6Lw8uIzSyVL7TE67ObsmyfzCB+KF74mCs3cNeJOg==",
   "success": true,
   "projectFilePath": "C:\\Users\\avvam\\source\\repos\\iNet\\Netina.Core\\source\\Netina.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\avvam\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\avvam\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\avvam\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\avvam\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
